@@ -1,5 +1,6 @@
-.DS_Store
 Thumb.db
 desktop.ini
 node_modules
 .idea
+*DS_STORE
+history.yml
